@@ -1,0 +1,3 @@
+Name: Deependra Singh
+Skills: HTML, CSS, JS, React.js,Firebase,TailwindCss,Python
+Email: singhdepu566@gmail.com
